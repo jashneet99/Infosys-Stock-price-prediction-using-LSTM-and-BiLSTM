@@ -25,3 +25,4 @@ loss : 8.3488e-05
 ![Screenshot (14)](https://user-images.githubusercontent.com/94118977/232518232-aba7a7f3-1ff9-4880-9dec-2a63ae88c2eb.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/94118977/232518261-868480ee-7945-4713-9d48-00aa35d61de0.png)
 
+
